@@ -1,17 +1,31 @@
 {
 
   "wallpapers": [
+    
+
     {
 
       "author": "Parth Bhardwaj",
 
       "url": "https://raw.githubusercontent.com/Harsh-Vats-Dev/Calm-Walls-Repo/master/Glaze%201.jpg",
 
-      "name": "Glaze",
+      "name": "Glaze 1",
 
       "thumbnail": "https://raw.githubusercontent.com/Harsh-Vats-Dev/Calm-Walls-Repo/master/Glaze%201.jpg"
 
     },
+    
+{
+
+      "author": "Parth Bhardwaj",
+
+      "url": "https://raw.githubusercontent.com/Harsh-Vats-Dev/Calm-Walls-Repo/master/Glaze%202.jpg",
+
+      "name": "Glaze 2",
+
+      "thumbnail": "https://raw.githubusercontent.com/Harsh-Vats-Dev/Calm-Walls-Repo/master/Glaze%202.jpg"
+
+    }
 
     
     {
